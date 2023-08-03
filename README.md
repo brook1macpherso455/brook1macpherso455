@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brook1macpherso455
+- 👀 I’m interested in Data science scholar proficient in SQL.
+- 🌱 Passionate about harnessing data to drive decision-making and business growth.
